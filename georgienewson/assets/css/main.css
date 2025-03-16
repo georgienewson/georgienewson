@@ -1909,6 +1909,7 @@ input, select, textarea {
 		}
 
 		input[type="submit"].primary,
+
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		button.primary,
@@ -3865,7 +3866,7 @@ input, select, textarea {
 
 			#sidebar {
 				width: 736px;
-				display: block;
+				display: none;
 			}
 
 		}
@@ -3887,7 +3888,7 @@ input, select, textarea {
 			@media screen and (max-width: 980px) {
 
 				#intro p br {
-					display: none;
+					display: block;
 				}
 
 			}
