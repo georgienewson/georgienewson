@@ -3864,7 +3864,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#sidebar {
-				width: 250px;
+				width: 736px;
 				display: block;
 			}
 
