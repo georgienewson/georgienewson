@@ -3443,6 +3443,7 @@ input, select, textarea {
 				#header .title {
 					font-size: 1.25em;
 					padding: 1em 0;
+	
 				}
 
 				#header > nav {
@@ -3863,6 +3864,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#sidebar {
+				width: 250px;
 				display: block;
 			}
 
